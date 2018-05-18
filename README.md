@@ -1,4 +1,4 @@
-# homework-lecture-6
+# Background Service
 
 Start background service, get your location on every 10 seconds and update the UI.
 
